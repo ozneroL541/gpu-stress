@@ -1,4 +1,4 @@
-<a href="https://github.com/ozneroL541/GPU_Stress/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ozneroL541/GPU_Stress?color=2b9348" alt="License"/></a>
+<a href="https://github.com/ozneroL541/gpu-stress/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ozneroL541/gpu-stress?color=2b9348" alt="License"/></a>
 
 # GPU_Stress
 A program to stress NVIDIA GPU as much as possible using CUDA.
@@ -13,12 +13,12 @@ A program to stress NVIDIA GPU as much as possible using CUDA.
  - [License](#license)
 
 ## Description
-This program is based on the simulation program [Perfect_Numbers](#https://github.com/ozneroL541/Perfect_Numbers.git).
+This program is based on the simulation program [Perfect_Numbers](#https://github.com/ozneroL541/perfect-numbers.git).
 
 ## Download
 Download the source code from Github
 
-    git clone https://github.com/ozneroL541/GPU_Stress.git
+    git clone https://github.com/ozneroL541/gpu-stress.git
 
 ## Compilation
 ### Requirements
